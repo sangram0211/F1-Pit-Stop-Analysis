@@ -49,6 +49,21 @@ Dataset contains:
 
 ---
 
+# 📁 Project Structure
+
+F1-Pit-Stop-Analysis/
+│
+├── F1 Pit-Stop Analysis.ipynb
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── .gitignore
+│
+├── data/
+    ├── All CSV files
+
+---
+
 # 📈 Key Analysis Performed
 
 ## 1. Pit Stop Duration Over Time
